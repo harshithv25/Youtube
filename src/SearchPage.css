@@ -1,0 +1,31 @@
+.searchPage {
+    flex: 0.87;
+    background: #181818;
+    min-height: 100vh;
+}
+
+.searchPage__filter {
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 180px;
+    display: flex;
+    align-items: center;
+    color: #AAAAAA !important;
+}
+
+.searchPage__filter>h2 {
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: medium;
+    font-weight: 420;
+}
+
+.searchPage hr {
+    margin-left: 180px;
+    max-width: 862px !important;
+    height: 1px;
+    border: 0;
+    background: #383838 !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

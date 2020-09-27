@@ -1,0 +1,17 @@
+.recommended {
+    flex: 0.87;
+    background: #181818;
+    min-height: 100vh;
+    padding: 40px 20px;
+    padding-bottom: 0 !important;
+}
+
+.recommended>h2 {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.recommended__videos {
+    display: flex;
+    flex-wrap: wrap;
+}

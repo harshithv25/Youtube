@@ -1,0 +1,44 @@
+.channelRow {
+    display: flex;
+    margin-left: 180px;
+    align-items: center;
+    max-width: 862px !important;
+    color: #AAAAAA;
+}
+
+.channelRow__logo {
+    margin-top: 5px;
+    margin-left: 50px !important;
+    height: 135px !important;
+    width: 135px !important;
+}
+
+.channelRow__text {
+    margin-left: 80px;
+}
+
+.channelRow__text>h4 {
+    align-items: center;
+    font-weight: 400;
+    font-size: medium;
+    color: white;
+}
+
+.channelRow__verified {
+    font-size: medium !important;
+    color: #AAAAAA !important;
+}
+
+.channelRow__text {
+    font-size: 13px;
+}
+
+.channelRow__text>p {
+    margin-top: 10px;
+}
+
+.channelRow__subs>button {
+    margin-left: 320%;
+    background: #CC0000 !important;
+    color: white !important;
+}

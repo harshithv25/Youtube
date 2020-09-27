@@ -1,0 +1,9 @@
+.app__page {
+    display: flex;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    position: absolute;
+    width: 0px;
+}
